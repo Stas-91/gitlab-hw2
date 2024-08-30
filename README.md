@@ -31,7 +31,9 @@
 
 
 ### Решение 2
-
+![jenkins_conf](img/conf_jenk02.jpg)
+![jenkins_out](img/jenk_out02.jpg)
+![nexus_repo](img/nexus_repo02.jpg)
 
 ---
 
