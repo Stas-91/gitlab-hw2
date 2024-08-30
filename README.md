@@ -14,7 +14,9 @@
 
 
 ### Решение 1
-
+![jenkins_conf](img/conf_jenk01.jpg)
+![jenkins_out](img/jenk_out01.jpg)
+![nexus_repo](img/nexus_repo01.jpg)
 
 ---
 
