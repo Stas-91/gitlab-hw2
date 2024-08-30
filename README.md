@@ -66,4 +66,7 @@
 
 
 ### Решение 4
+![jenkins_conf](img/conf_jenk03.jpg)
+![jenkins_out](img/jenk_out03.jpg)
+![nexus_repo](img/nexus_repo03.jpg)
 
